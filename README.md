@@ -6,7 +6,7 @@ cluster or to test your PodDistruptionBudget.
 ## :cd: Installation
 
 ```console
-$ go install github.com/ueokande/kubectl-evict@latest
+$ go install github.com/stromvirvel/kubectl-evict@latest
 ```
 
 ## :notebook_with_decorative_cover: Usage

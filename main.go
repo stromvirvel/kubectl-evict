@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/spf13/pflag"
-	"github.com/ueokande/kubectl-evict/pkg/cmd"
+	"github.com/stromvirvel/kubectl-evict/pkg/cmd"
 	"k8s.io/cli-runtime/pkg/genericclioptions"
 )
 

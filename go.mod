@@ -1,4 +1,4 @@
-module github.com/ueokande/kubectl-evict
+module github.com/stromvirvel/kubectl-evict
 
 go 1.17
 
